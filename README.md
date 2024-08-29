@@ -4,7 +4,7 @@
 ## Objective:
 The primary objective of this case study, titled "Sky Analytics: Navigating the Complexities of Airline and Airport Operations," is to deeply analyze and interpret the extensive datasets encompassing flights, airlines, and airports - namely "flights.csv", "airlines.csv", and "airports.csv". The analysis aims to uncover critical insights into flight operations, delay patterns, airline efficiency, and airport traffic dynamics. The ultimate goal is to provide strategic recommendations to enhance operational effectiveness, improve customer experiences in air travel, and contribute to the overall advancement of the aviation industry's standards and practices.
 
-![image](https://github.com/kiranahire03/Sky-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/assets/96494463/5b618173-4a10-40a9-8add-ef221b5a1804)
+![image](https://github.com/RishiAtWork1/Sky-Analytics-Navigating-the-Complexities-of-Airline-and-Airport-Operations/blob/main/Excel_Dashboard.png?raw=true)
 
 **Check-out the Excel Data Analysis File here** :-
 ------
